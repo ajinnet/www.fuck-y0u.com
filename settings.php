@@ -23,9 +23,9 @@ class site_info{
 
     //站点联系方式
     //'class 名','icon 名','内容'
-    /*
+    
     public $con = array(
-        array(
+/*        array(
             'side-contact-w','czs-weixin','Helipeng_tony'
         ),
         array(
@@ -42,9 +42,9 @@ class site_info{
         ),
         array(
             'side-contact-z','czs-zhihu','helipengtony'
-        )
+        )*/
     );
-*/
+
 
     //首页排除分类选项(单个)
     //'cate 名称'
@@ -55,9 +55,9 @@ class site_info{
     //'名称','链接'
     public $header = array(
         array(
-            '首页','http://localhost/oblog'
+            '首页','https://www.fuck-y0u.com'
         ),
-        array(
+/*        array(
             '博客','https://www.ouorz.com'
         ),
         array(
@@ -65,7 +65,7 @@ class site_info{
         ),
         array(
             '关于','https://www.ouorz.com/126'
-        )
+        )*/
     );
 
 
