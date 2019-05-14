@@ -23,6 +23,7 @@ class site_info{
 
     //站点联系方式
     //'class 名','icon 名','内容'
+    /*
     public $con = array(
         array(
             'side-contact-w','czs-weixin','Helipeng_tony'
@@ -43,7 +44,7 @@ class site_info{
             'side-contact-z','czs-zhihu','helipengtony'
         )
     );
-
+*/
 
     //首页排除分类选项(单个)
     //'cate 名称'
