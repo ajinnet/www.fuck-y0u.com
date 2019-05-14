@@ -14,11 +14,11 @@ class site_info{
 
 
     //站点头像
-    public $avatar = 'https://static.ouorz.com/tonyhe.jpg';
+    public $avatar = 'img/avtar.jpg';
 
 
     //站点头像背景
-    public $banner = 'https://static.ouorz.com/5ccaea1daaf36.jpg';
+    public $banner = 'img/background.jpg';
 
 
     //站点联系方式
