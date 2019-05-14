@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php echo $site->name; ?></title>
-    <script src="https://static.ouorz.com/jquery-3.3.1.min.js"></script>
-    <script type="text/javascript" src="https://static.ouorz.com/vue.min.js"></script>
+    <script src="https://www.fuck-y0u.com/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://www.fuck-y0u.com/js/vue.min.js"></script>
     <script>
         Vue.config.devtools = true
     </script>
-    <script type="text/javascript" src="https://static.ouorz.com/axios.min.js"></script>
+    <script type="text/javascript" src="https://www.fuck-y0u.com/js/axios.min.js"></script>
     <script src="https://cdn.bootcss.com/markdown-it/8.4.2/markdown-it.min.js"></script>
     <script type="text/javascript" src="element/index.js"></script>
     <link rel="stylesheet" type="text/css" href="element/index.css">
