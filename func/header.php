@@ -36,9 +36,7 @@
                     <a v-for="item in nav_items" v-html="item[0]" :href="item[1]"></a>
                 </p>
                 <el-dropdown class="header-dropdown">
-                    <el-button type="primary" class="header-btn">
-                        <?php echo $site->header_btn[0] ?><i class="el-icon-arrow-down el-icon--right"></i>
-                    </el-button>
+
                     <el-dropdown-menu slot="dropdown">
                         <?php for($k=0;$k<count($site->header_btn[1]);$k++){ ?>
                             <el-dropdown-item><?php echo $site->header_btn[1][$k]; ?></el-dropdown-item>

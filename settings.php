@@ -72,11 +72,12 @@ class site_info{
     //站点导航栏按钮
     //'按钮文字',array'内容'
     public $header_btn = array(
+        /*
         'Buy me a coffee',
         array(
             '<i class="czs-alipay"></i> 13408697095',
             '<i class="czs-weixinzhifu"></i> Helipeng_tony'
-        )
+        )*/
     );
 }
 
